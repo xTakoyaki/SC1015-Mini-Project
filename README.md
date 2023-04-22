@@ -1,8 +1,8 @@
 # SC1015 Mini Project (Group C126 Team 5)
-### Members:
-Kenneth Lemuel (U2222928H)<br>
-Kong Li En Belivian (U2223130F)<br>
-Tan Pin Yee (U2221027H)
+### Members and their contributions:
+Kenneth Lemuel (U2222928H): Data Preparation and Machine Learning<br>
+Kong Li En Belivian (U2223130F): Exploratory Data Analysis (EDA) <br>
+Tan Pin Yee (U2221027H): Data Preparation and Post Model Analysis
 ***
 ## About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence). We aim to focus on making predictions on how GDP affects the standard of living of a country, measured by various factors such as Human Development Index (HDI) and Happiness Index (HI).
@@ -21,5 +21,17 @@ Given the following factors:<br>
    * Purchasing power - CPI
    * Human development index
    * Gross national income
+
+## Notebooks in our Project
+>1.<br>2.<br>3.<br>
+
+
+## Conclusion
+
+## New things learnt
+
+## 
+
+
 
 
