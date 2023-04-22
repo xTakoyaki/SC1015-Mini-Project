@@ -1,7 +1,7 @@
 # SC1015 Mini Project (Group C126 Team 5)
 ### Members:
-Kenneth Lemuel (U2222928H)
-Kong Li En Belivian (U2223130F)
+Kenneth Lemuel (U2222928H)<br>
+Kong Li En Belivian (U2223130F)<br>
 Tan Pin Yee (U2221027H)
 ***
 ## About
