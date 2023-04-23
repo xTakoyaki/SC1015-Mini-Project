@@ -35,7 +35,7 @@ Given the following factors:<br>
 * Combining and filtering different datasets
 * Using MLR modelling
 * Concept of collinearity
-* New library: Plotly (Chloropleth map)
+* New library: Plotly (3D Scatterplot)
 * How to professionally use Github
 
 
