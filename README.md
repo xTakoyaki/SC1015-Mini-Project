@@ -9,9 +9,9 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 We have picked out three datasets from Kaggle that will accompany us in our journey to make these predictions:
 
-> 1.[World GDP(GDP, GDP per capita, and annual growths)](https://www.kaggle.com/datasets/zgrcemta/world-gdpgdp-gdp-per-capita-and-annual-growths)<br>
-2.[Human Development Index Historical data](https://www.kaggle.com/datasets/elmartini/human-development-index-historical-data)<br>
-3.[World Happiness Report](https://www.kaggle.com/datasets/unsdsn/world-happiness)
+1.[Human Development Index Historical data](https://www.kaggle.com/datasets/elmartini/human-development-index-historical-data)<br>
+2.[World Happiness Report](https://www.kaggle.com/datasets/unsdsn/world-happiness)
+
 ## Problem Statement
 Given the following factors:<br>
 * GDP
