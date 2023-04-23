@@ -20,7 +20,7 @@ Given the following factors:<br>
    * Happiness Index
 
 ## Notebooks in our Project
->1.<br>2.<br>3.<br>
+>1.SC1015_MiniProject.ipynb
 
 
 ## Conclusion
