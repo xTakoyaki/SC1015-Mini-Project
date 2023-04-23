@@ -7,7 +7,7 @@
 ## About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence). We aim to focus on making predictions on how GDP affects the standard of living of a country, measured by various factors such as Human Development Index (HDI) and Happiness Index (HI).
 
-We have picked out three datasets from Kaggle that will accompany us in our journey to make these predictions:
+We have picked out two datasets from Kaggle that will accompany us in our journey to make these predictions:
 
 1.[Human Development Index Historical data](https://www.kaggle.com/datasets/elmartini/human-development-index-historical-data)<br>
 2.[World Happiness Report](https://www.kaggle.com/datasets/unsdsn/world-happiness)
