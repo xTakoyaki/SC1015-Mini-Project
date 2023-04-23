@@ -24,11 +24,10 @@ Given the following factors:<br>
 
 
 ## Conclusion
-* The model attains a final evaluative score of 
-* Although the model may not be able to accurately predict …., it gives a possible idea of…...
-* Standard of living is multifaceted which makes predicted it hard 
-* Perhaps the model should not be used to attempt to accurately predict black’s first move; rather, to see what other players would do in the same situation.
-
+* The model has a high explained variance range of 0.8 - 0.9 and low mean square error spanning from 0.01 - 0.03 hence it is both accurate and precise.
+* Standard of living is multifaceted which makes predicting it difficult, especially by just using two datasets.
+* Our model will be able to give a good idea of how GDP per capita is affected by HDI and HI. 
+* Ideally, we hope that we had more dataset to train the model.
 
 ## New things learnt
 * Transformation of DataFrames in Pandas (e.g., conversion of categorical to numeric values)
